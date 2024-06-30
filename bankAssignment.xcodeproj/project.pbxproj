@@ -17,6 +17,7 @@
 		E6E740042C31A86800C5FED3 /* bankAssignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E740032C31A86800C5FED3 /* bankAssignmentTests.swift */; };
 		E6E7400E2C31A86800C5FED3 /* bankAssignmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E7400D2C31A86800C5FED3 /* bankAssignmentUITests.swift */; };
 		E6E740102C31A86800C5FED3 /* bankAssignmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E7400F2C31A86800C5FED3 /* bankAssignmentUITestsLaunchTests.swift */; };
+		E6E7401D2C31A89E00C5FED3 /* bankClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E7401C2C31A89E00C5FED3 /* bankClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		E6E740092C31A86800C5FED3 /* bankAssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bankAssignmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6E7400D2C31A86800C5FED3 /* bankAssignmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bankAssignmentUITests.swift; sourceTree = "<group>"; };
 		E6E7400F2C31A86800C5FED3 /* bankAssignmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bankAssignmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E6E7401C2C31A89E00C5FED3 /* bankClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bankClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				E6E73FE92C31A86600C5FED3 /* AppDelegate.swift */,
 				E6E73FEB2C31A86600C5FED3 /* SceneDelegate.swift */,
 				E6E73FED2C31A86600C5FED3 /* ViewController.swift */,
+				E6E7401C2C31A89E00C5FED3 /* bankClass.swift */,
 				E6E73FEF2C31A86600C5FED3 /* Main.storyboard */,
 				E6E73FF52C31A86700C5FED3 /* Assets.xcassets */,
 				E6E73FF72C31A86700C5FED3 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6E7401D2C31A89E00C5FED3 /* bankClass.swift in Sources */,
 				E6E73FF42C31A86600C5FED3 /* bankAssignment.xcdatamodeld in Sources */,
 				E6E73FEE2C31A86600C5FED3 /* ViewController.swift in Sources */,
 				E6E73FEA2C31A86600C5FED3 /* AppDelegate.swift in Sources */,
